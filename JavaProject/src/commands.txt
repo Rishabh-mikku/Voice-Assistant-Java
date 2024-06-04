@@ -1,0 +1,36 @@
+open chrome
+close chrome
+open youtube
+close youtube
+open amazon
+close amazon
+open facebook
+close facebook
+open wikipedia
+close wikipedia
+open netflix
+close netflix
+open shopify
+close shopify
+open linkedin
+close linkedin
+open hackerrank
+close hackerrank
+open geeksforgeeks
+close geeksforgeeks
+open w3schools
+close w3schools
+open javatpoint
+close javatpoint
+open codechef
+close codechef
+open leetcode
+close leetcode
+open codeforces
+close codeforces
+open chess.com
+close chess.com
+open lpu ums
+close lpu ums
+shutdown
+restart

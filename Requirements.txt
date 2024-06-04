@@ -1,0 +1,36 @@
+REQUIREMENTS:
+
+To run this project of Voice Assistant on your pc or laptop it is must that you should have following applications present-
+
+
+
+Using Eclipse IDE:
+
+1- Eclipse IDE - Download latest version of Eclipse IDE from any web browser.
+
+2- Jar Files - In this project folder there is a folder named Jar Files you have to download all jar files (8 jar files) in your system including a jar file for MySQL connection.
+
+3- MySQL - You have a MySQL in your system to run the database code included in the folder with name requirements.
+
+4- If .dic and .lm file included in project for dictionary and language modelling of commands for voice assistant is not working properly than go to Sphinx Knowledge Base Generator in your web browser and generate the .lm and .dic file by the help of commands file included in this folder. It is must that you should have following two files while running this project.
+
+5- Download all the images given in image folder.
+
+6- Don't forget to install any jdk version after 1.8 in your system.
+
+
+
+Using Microsoft Visual Studio Code:
+
+1- VS Code - Download latest version of VS Code from any web browser.
+
+2- Jar Files - In this project folder there is a folder named Jar Files you have to download all jar files (8 jar files) in your system including a jar file for MySQL connection.
+
+3- MySQL - You have a MySQL in your system to run the database code included in the folder with name requirements.
+
+4- If .dic and .lm file included in project for dictionary and language modelling of commands for voice assistant is not working properly than go to Sphinx Knowledge Base Generator in your web browser and generate the .lm and .dic file by the help of commands file included in this folder. It is must that you should have following two files while running this project.
+
+5- Download all the images given in image folder.
+
+6- Don't forget to install any jdk version after 1.8 in your system.
+
